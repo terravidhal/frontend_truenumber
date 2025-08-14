@@ -19,6 +19,10 @@ TrueNumber est une application web de jeu de hasard et de gestion d'utilisateurs
 
 ## 🚀 Installation & configuration
 
+# 🚀 NB: pour ce connecter sur la version deployer
+email : superadmin123@truenumber.com
+password : admin123
+
 1. **Cloner le repo**
 
 ```bash
