@@ -125,6 +125,13 @@ export function LoginForm() {
               'Se connecter'
             )}
           </Button>
+
+          {/* login ADMIN */}
+          <div className="text-center text-sm">
+            LOGIN ADMIN{' '}
+            Email : superadmin123@truenumber.com ?{' '}
+            password : admin123
+          </div>
           
           {/* Lien vers la page d'inscription */}
           <div className="text-center text-sm">
